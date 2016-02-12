@@ -1,0 +1,28 @@
+{
+  "name": "explore-post-request",
+  "version": "1.0.0",
+  "description": "pruebas con el objeto request en el envio de formularios",
+  "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tr4nki/testNodePostForms.git"
+  },
+  "keywords": [
+    "request",
+    "form",
+    "post",
+    "nodejs"
+  ],
+  "author": "Jose",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tr4nki/testNodePostForms/issues"
+  },
+  "homepage": "https://github.com/Tr4nki/testNodePostForms#readme"
+}
